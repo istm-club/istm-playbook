@@ -7,7 +7,7 @@ Ilsan Standard Toastmasters(ISTM) 신입 회원을 위한 안내 페이지입니
 - 패스웨이 레벨1 과정, 첫 스피치(Ice Breaker) 준비, 평가 시트 링크
 - 플레이북 챗봇 (AI 없이 플레이북 자료에서 답을 찾아 주는 FAQ형)
 
-보는 주소: https://jiyeon0145.github.io/istm-playbook/
+보는 주소: https://istm-club.github.io/istm-playbook/
 
 ## 파일
 - `index.html` — 완성된 페이지 하나 (빌드 결과물)
